@@ -18,3 +18,7 @@ test
 GUI
 Versions
 builder.py
+__pycache__/
+.pytest_cache/
+dist/
+build/
